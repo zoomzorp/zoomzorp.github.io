@@ -11,3 +11,8 @@ p {
 body {
     background-color: #595456;
 }
+
+#treeimage {
+    width: 150px;
+    border-radius: 8px;
+}
