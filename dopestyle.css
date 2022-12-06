@@ -22,3 +22,9 @@ body {
     margin-right: auto;
     opacity: 0.5;
 }
+
+.header-container {
+    border-radius: 61px;
+    background: #46a08e;
+    box-shadow:  9px 9px 41px #24534a, -9px -9px 41px #68edd2;
+}
